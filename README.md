@@ -3,7 +3,7 @@ Simple obstacle avoiding game with minimal materials based on [Fast Cubes](https
 
 ## Installation
 
-Use the [fastcubes.unitypackage](https://github.com/vessagi/cubesgame/blob/main/fastcubes.unitypackage) or drag and drop the files in your assets folder.
+Use the [fastcubes.unitypackage](https://github.com/vessagi/cubesgame/blob/main/fastcubes.unitypackage) or drag and drop the files to your assets folder.
 
 ## Usage
 
